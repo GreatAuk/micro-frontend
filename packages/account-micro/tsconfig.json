@@ -1,4 +1,5 @@
 {
+  "extends": "@micro-frontend/tsconfig",
   "compilerOptions": {
     "target": "esnext",
     "module": "esnext",

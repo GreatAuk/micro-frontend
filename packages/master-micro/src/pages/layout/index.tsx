@@ -24,9 +24,9 @@ const Layout: FC<{}> = ({ children }) => {
         {/* <Menu.Item key="vue-v2-micro">
           vue-v2-micro
         </Menu.Item> */}
-        {/* <Menu.Item key="umi-app1-micro">
+        <Menu.Item key="umi-app1-micro">
           umi-app1-micro
-        </Menu.Item> */}
+        </Menu.Item>
 
         {/* <SubMenu key="SubMenu" title="Navigation Three - Submenu">
           <Menu.ItemGroup title="Item 1">

@@ -9,6 +9,6 @@ declare module '*.svg' {
   export default url;
 }
 
-interface Window {
-  __POWERED_BY_QIANKUN__: boolean | undefined;
-}
+// interface Window {
+//   __POWERED_BY_QIANKUN__: boolean | undefined;
+// }

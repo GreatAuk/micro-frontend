@@ -1,0 +1,19 @@
+{
+  "name": "@micro-frontend/tsconfig",
+  "version": "1.0.0",
+  "description": "项目公共 typescript 配置",
+  "author": "utopia <greatauk11@gmail.com>",
+  "main": "tsconfig.json",
+  "homepage": "https://github.com/GreatAuk/micro-frontend#readme",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/GreatAuk/micro-frontend.git"
+  },
+  "scripts": {
+    "test": "echo \"Error: run tests from root\" && exit 1"
+  },
+  "bugs": {
+    "url": "https://github.com/GreatAuk/micro-frontend/issues"
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "name": "@micro-frontend/typings",
+  "version": "1.0.0",
+  "description": "micro-frontend's common typings",
+  "author": "utopia <greatauk11@gmail.com>",
+  "homepage": "https://github.com/GreatAuk/micro-frontend#readme",
+  "license": "ISC",
+  "main": "",
+  "types": "index.d.ts",
+  "directories": {
+    "lib": "lib",
+    "test": "__tests__"
+  },
+  "files": [
+    "lib"
+  ],
+  "publishConfig": {
+    "access": "public"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/GreatAuk/micro-frontend.git"
+  },
+  "scripts": {
+    "test": "echo \"Error: run tests from root\" && exit 1"
+  },
+  "bugs": {
+    "url": "https://github.com/GreatAuk/micro-frontend/issues"
+  },
+  "devDependencies": {
+    "@micro-frontend/tsconfig": "^1.0.0"
+  }
+}

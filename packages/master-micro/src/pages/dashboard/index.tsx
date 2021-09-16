@@ -5,7 +5,7 @@ const Dashboard = () => {
     <div>
       <h1>Dashboard</h1>
       <div style={{marginTop: '100px'}}>
-        <MicroApp name="account-micro" />
+        {/* <MicroApp name="account-micro" /> */}
       </div>
     </div>
   )
